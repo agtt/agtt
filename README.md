@@ -1,16 +1,15 @@
-### Hi there 👋
+⚡ Hi, I'm Agit! I'm a full-stack developer 
 
-<!--
-**agtt/agtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have more than 10 years of software experience and have worked with many complex software, frameworks and teams. New challenges and business experiences are always exciting.
 
-Here are some ideas to get you started:
+You can find me here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[GitHub](https://github.com/agtt) • [LinkedIn](https://linkedin.com/in/agitt) • [Twitter](https://twitter.com/iagit_)
+
+
+
+&ensp;![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)&ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)&ensp;![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=TypeScript)&ensp;![Node.js](https://img.shields.io/badge/-Node.js-303030?style=flat-square&logo=Node.js)&ensp;![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)&ensp;![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js)&ensp;![PHP](https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=PHP)
+
+
+
+
