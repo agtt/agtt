@@ -1,22 +1,22 @@
-⚡ Hi, I'm Agit! I bring over 10 years of software expertise, navigating complex frameworks and collaborating within diverse teams. I thrive on new challenges and revel in novel business experiences.
+# Agit
 
-Python, TypeScript and PHP are my favorite programming languages right now.
+I build products end to end: backend, web and mobile. These days most of the work runs through AI agents I orchestrate, not code I type line by line.
 
-My approach to coding revolves around clean, modular architecture, prioritizing readability, maintainability, and robust testability across all projects.
+### What I spend my time on
 
-```typescript
-const hi = (name: string) => `Hi ${name}, What's up!`;
-```
+- **Agent orchestration**: running many coding-agent sessions in parallel and steering them from my phone: approvals, questions, handoffs, reviews.
+- **Workflow automation**: turning repetitive work into scripts, CLIs and MCP servers that both people and agents can use.
+- **Release automation**: iOS, Google Play and AppGallery releases scripted end to end, from signing to review submission.
 
-```python
-def hi(name: str) -> str:
-    return f"Hey {name}!, Ready to code up some magic?"  
-```
+### How I work
 
-----
+- Agents write most of the code. I write the spec, review the diff and own the parts that matter.
+- Small tools that compose: CLIs and MCP servers before dashboards.
+- Ship first, then harden what actually breaks.
 
-&ensp;![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)&ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)&ensp;![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=TypeScript)&ensp;![Node.js](https://img.shields.io/badge/-Node.js-303030?style=flat-square&logo=Node.js)&ensp;![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)&ensp;![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js)&ensp;![PHP](https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=PHP)
+### Stack
 
-
-
-
+- **Languages:** TypeScript, Python, PHP, C#, Dart
+- **Frameworks:** Bun, Node, Next.js, React, React Native / Expo, Flutter
+- **Data & infra:** MySQL, Postgres, Hetzner, Vercel
+- **AI tooling:** Claude Code, MCP, agent workflows, Telegram bots
